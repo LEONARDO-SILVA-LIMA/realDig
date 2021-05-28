@@ -1,0 +1,2 @@
+Texto Títulos: Poppins Bold
+Texto Normal: Poppins Regular
